@@ -1,6 +1,6 @@
 {
-  "version": "0.10.0",
-  "md5": "6c6441c6bf6660a2e0c60166abeb2786",
-  "size": 1065584,
-  "changelog": ["OTA UPDATE PAGE", "AUTO-GENERATED DEVICE CHANGELOG", "OTA UPDATE GUIDE SECTION", "BOOT NO LONGER AUTO-CHECKS FOR O"]
+  "version": "0.10.1",
+  "md5": "524f0915e9df798f9e14e5a012c4a651",
+  "size": 1064928,
+  "changelog": ["FORCE FULL REDRAW WHEN A PROVIDE"]
 }
