@@ -2,5 +2,5 @@
   "version": "0.10.1",
   "md5": "524f0915e9df798f9e14e5a012c4a651",
   "size": 1064928,
-  "changelog": ["FORCE FULL REDRAW WHEN A PROVIDE"]
+  "changelog": ["FIXED OLD TEXT STUCK ON SCREEN"]
 }
