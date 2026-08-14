@@ -2,5 +2,5 @@
   "version": "0.11.0",
   "md5": "cfe095a69ca8413f1478f0c110642b08",
   "size": 1221664,
-  "changelog": ["DEVICE-AUTHORIZATION ALLOWLIST", "GA4 DEVICE TELEMETRY", "`DEVICE_CHECKIN` SENT BEFORE", "ERROR TELEMETRY NOW CARRIES AN", "`ENGAGEMENT_TIME_MSEC`/`SESSION_"]
+  "changelog": ["Add Cursor support", "Sharper new font", "Bug fixes"]
 }
