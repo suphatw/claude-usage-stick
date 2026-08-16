@@ -2,5 +2,5 @@
   "version": "0.11.1",
   "md5": "819b5127915e9abf555850f346bd0e30",
   "size": 1221648,
-  "changelog": ["FIXED CODEX USAGE GETTING STUCK", "Add Cursor support", "Sharper new font", "Bug fixes"]
+  "changelog": ["Fixed Codex usage getting stuck", "Add Cursor support", "Sharper new font", "Bug fixes"]
 }
