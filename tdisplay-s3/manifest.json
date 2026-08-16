@@ -1,6 +1,6 @@
 {
-  "version": "0.11.0",
-  "md5": "cfe095a69ca8413f1478f0c110642b08",
-  "size": 1221664,
-  "changelog": ["Add Cursor support", "Sharper new font", "Bug fixes"]
+  "version": "0.11.1",
+  "md5": "819b5127915e9abf555850f346bd0e30",
+  "size": 1221648,
+  "changelog": ["FIXED CODEX USAGE GETTING STUCK"]
 }
