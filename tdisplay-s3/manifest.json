@@ -1,6 +1,6 @@
 {
-  "version": "0.11.2",
-  "md5": "05aebd8086ec01bca47eda6d21d662b9",
+  "version": "0.11.3",
+  "md5": "cf007b7b004ae726d9a10484a6f163ad",
   "size": 1221664,
-  "changelog": ["Fixed logout at usage limit", "Fixed Codex usage getting stuck", "Add Cursor support", "Sharper new font", "Bug fixes"]
+  "changelog": ["AI Usage Bar marketing videos", "Keep Claude token on plan errors", "Fixed logout at usage limit", "Fixed Codex usage getting stuck", "Add Cursor support", "Sharper new font", "Bug fixes"]
 }
