@@ -1,6 +1,6 @@
 {
-  "version": "0.11.3",
-  "md5": "cf007b7b004ae726d9a10484a6f163ad",
-  "size": 1221664,
-  "changelog": ["Keep Claude token on plan errors", "Fixed logout at usage limit", "Fixed Codex usage getting stuck", "Add Cursor support", "Sharper new font", "Bug fixes"]
+  "version": "0.11.4",
+  "md5": "9235d9545906789b116d4db5fedc12ee",
+  "size": 1236704,
+  "changelog": ["Restore Codex usage polling", "Keep Claude token on plan errors", "Fixed logout at usage limit", "Fixed Codex usage getting stuck", "Add Cursor support", "Sharper new font", "Bug fixes"]
 }
