@@ -1,6 +1,6 @@
 {
-  "version": "0.11.7",
-  "md5": "022e8b642d8fcca1d8236a7a5a252db9",
-  "size": 1239968,
-  "changelog": ["Fixed blank Manus page", "Manus errors show on screen", "Tidier combined usage page", "Manus credits in its own colour", "Manus response-shape probe", "Add Manus usage", "Fix Codex error", "Fix Manus paid accounts"]
+  "version": "0.11.8",
+  "md5": "407f1970201aafac8af4cfda68023bec",
+  "size": 1240368,
+  "changelog": ["Longer WiFi retry before setup", "Fixed blank Manus page", "Add Manus usage"]
 }
