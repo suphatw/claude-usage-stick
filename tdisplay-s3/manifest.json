@@ -1,6 +1,6 @@
 {
-  "version": "0.11.6",
-  "md5": "6796d9c0acaa78213be9a455b34e7ff5",
-  "size": 1239936,
-  "changelog": ["Tidier combined usage page", "Manus credits in its own colour", "Manus response-shape probe", "Add Manus usage", "Fix Codex error", "Fix Manus paid accounts"]
+  "version": "0.11.7",
+  "md5": "022e8b642d8fcca1d8236a7a5a252db9",
+  "size": 1239968,
+  "changelog": ["Fixed blank Manus page", "Manus errors show on screen", "Tidier combined usage page", "Manus credits in its own colour", "Manus response-shape probe", "Add Manus usage", "Fix Codex error", "Fix Manus paid accounts"]
 }
