@@ -1,6 +1,9 @@
 {
-  "version": "0.11.8",
-  "md5": "407f1970201aafac8af4cfda68023bec",
-  "size": 1240368,
-  "changelog": ["Longer WiFi retry before setup", "Fixed blank Manus page", "Add Manus usage"]
+  "version": "0.11.9",
+  "md5": "fed43a6cb28ae2904694d30ca93432bf",
+  "size": 1241472,
+  "changelog": [
+    "Rotate screen from Setup",
+    "AI Usage Bar boot screen"
+  ]
 }
