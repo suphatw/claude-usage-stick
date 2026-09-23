@@ -1,8 +1,9 @@
 {
-  "version": "0.11.9",
-  "md5": "fed43a6cb28ae2904694d30ca93432bf",
-  "size": 1241472,
+  "version": "1.0.0",
+  "md5": "c67b5a9a540b0c90989cb4475abb702d",
+  "size": 1219520,
   "changelog": [
+    "Fix Codex token refresh",
     "Rotate screen from Setup",
     "AI Usage Bar boot screen"
   ]
